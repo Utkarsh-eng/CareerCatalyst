@@ -363,16 +363,16 @@ button:disabled {
 
 .CareerNestDiv{
   box-shadow: 2px 2px 7px 0px #2cb1bc;
-  height: 50px;
+  height: 38px;
   border-radius: 50%;
-  padding: 9px;
+  padding: 10px;
   display: flex;
   justify-content: center;
-  font-family: 'Brush Script MT';
+  font-family: 'arial black';
   font-weight: bold;
   color: #2cb1bc; 
-  text-transform: uppercase; 
-  font-size: 30px;
+  /* text-transform: uppercase;  */
+  font-size: 20px;
   text-shadow: 1px 2px 1px #1C6EA4;
 
 }
